@@ -2,4 +2,5 @@ Natal
 Ano Novo
 Carnaval
 São Jorge
-Semana SantaCorpus Christi
+Semana Santa
+Corpus Christi
